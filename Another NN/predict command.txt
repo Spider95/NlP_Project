@@ -1,0 +1,1 @@
+python predict.py ./trained_model_1523975993/ ./data/test.json
